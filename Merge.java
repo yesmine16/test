@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Merge {
+package PACKAGE_NAME;
+
+public class Merge {
+
 }
